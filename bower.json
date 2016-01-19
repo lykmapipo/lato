@@ -24,7 +24,7 @@
   ],
   "main": [
     "./css/lato.css",
-    "./font/*"
+    "./fonts/*"
   ],
   "licenses": [
     {
